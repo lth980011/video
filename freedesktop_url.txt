@@ -1,0 +1,12 @@
+freedesktop.org
+   http://www.freedesktop.org/wiki/
+   http://www.freedesktop.org/wiki/Home
+   http://www.freedesktop.org/wiki/Software/vaapi
+
+About git 
+   http://cgit.freedesktop.org/
+   1 libva
+     git clone http://anongit.freedesktop.org/git/libva
+   2 freedesktop 
+     video driver 
+     http://anongit.freedesktop.org/git/xorg/driver/xf86-video-intel.git
